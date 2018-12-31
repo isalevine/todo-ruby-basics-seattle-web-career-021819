@@ -14,7 +14,7 @@ def greeting(hi, yall)
   puts "#{hi}, #{yall}"
 end
 
-def return_a_value
+def return_a_value(thing = "Nice")
   return
 end
 
